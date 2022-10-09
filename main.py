@@ -1,8 +1,7 @@
 import random
 
-
-
 def generator():
+    # empty lists to put the numbers in later on 
     first3_nums = []
     last4_nums = []
     # input for the company and country (must be in numbers)
